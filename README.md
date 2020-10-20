@@ -8,4 +8,4 @@ We used the CIFAR10 database with ten categories of objects.
 The notebook guided us to construct an artificial neural network to classify them.
 
 ## Report
-The report is in the repository, named Lab2.pdf. It contains approximaltely all the relevant tests I have done in this Lab-Work.
+The report is in the repository, named Lab2.pdf. It contains approximatively all the relevant tests I have done in this Lab-Work.
